@@ -1,4 +1,4 @@
-Hello, I’m Gustavo.
+Hey, I’m Gustavo.
 
 I'm a Web Developer based in São Paulo. I'm interested in system design, creating interfaces and turning code into incredible experiences.
 
